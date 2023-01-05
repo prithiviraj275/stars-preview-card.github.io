@@ -37,6 +37,15 @@ main{
     border-radius: 0 10px 10px 0;
 
 }
+.imgs{
+    height: 500px;
+    width: 505px;
+    background-size: cover;
+    border-radius: 0 10px 10px 0;
+    background: rgb(75 0 255 / 70%);;
+    position: absolute;
+
+}
 
 
 .textcard{        
@@ -116,9 +125,14 @@ main{
         height: 210px;
         border-radius: 10px 10px 0 0;
         background-size: cover;
+    }
+    
+    .imgs{
+        width: 320px;
+        height: 132px;
+        border-radius: 10px 10px 0 0;
 
     }
-
 
     .textcard{        
         text-align: center;
